@@ -1,0 +1,69 @@
+# This is a standard .gitignore file for Unity projects.
+# Generated automatically for a 3D platformer project.
+
+/[L|l]ibrary/
+/[T|t]emp/
+/[O|o]bj/
+/[B|b]uild/
+/[B|b]uilds/
+/[L|l]ogs/
+/[U|u]ser[S|s]ettings/
+
+# Memory dumps
+*.dmg
+*.dump
+*.rdb
+
+# Crashlytics generated file
+sysinfo.txt
+
+# Visual Studio / Rider / VS Code generated files and folders
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userbreak
+*.cache
+*.pdb
+*.opendb
+*.VC.db
+
+# Compiled Assembly folders
+.unittest/
+sysinfo.txt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V10
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Unity WebGL builds folder
+[A|a]sset[S|s]tore[T|t]ools*
+
+# Backup and autocsave files from text editors
+*~
+*.swp
+*.bak
+*.orig
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# PlasticSCM temporary files
+*.mode1v3
+*.mode2v3
+*.swp
